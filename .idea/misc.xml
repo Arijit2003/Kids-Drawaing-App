@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Project/DrawingApp/app/src/main/res/drawable/drawing_view_background.xml" value="0.2275" />
+        <entry key="..\:/Android Project/DrawingApp/app/src/main/res/drawable/ic_brush.xml" value="0.117" />
+        <entry key="..\:/Android Project/DrawingApp/app/src/main/res/drawable/ic_image.xml" value="0.1" />
+        <entry key="..\:/Android Project/DrawingApp/app/src/main/res/drawable/large.xml" value="0.1755" />
+        <entry key="..\:/Android Project/DrawingApp/app/src/main/res/drawable/medium.xml" value="0.1755" />
+        <entry key="..\:/Android Project/DrawingApp/app/src/main/res/drawable/palate_normal.xml" value="0.226" />
+        <entry key="..\:/Android Project/DrawingApp/app/src/main/res/drawable/palate_pressed.xml" value="0.1875" />
+        <entry key="..\:/Android Project/DrawingApp/app/src/main/res/drawable/small.xml" value="0.1755" />
+        <entry key="..\:/Android Project/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android Project/DrawingApp/app/src/main/res/layout/brush_size_dialog.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
